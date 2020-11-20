@@ -9,15 +9,15 @@ The portfolio will look like the images below:
 
 <h3>About Me - Home</h3>
 
-<img src="Assets/Images/portoflio_home.PNG">
+<img src="./Images/portoflio_home.PNG">
 
 <h3>Portfolio - List of Projects</h3>
 
-<img src="Assets/Images/portfolio_projects.PNG">
+<img src="./Images/portfolio_projects.PNG">
 
 <h3>Contact</h3>
 
-<img src="Assets/Images/portoflio_contact.PNG">
+<img src="./Images/portoflio_contact.PNG">
 
 
 
