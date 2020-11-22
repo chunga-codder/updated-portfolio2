@@ -10,9 +10,17 @@ users will be able to get intouch with me using any of the uptions above
 
 <h3 style="text-align:center">LINKS</h3>
 This are the various links which tou can go to if you want to take a look of the live portfolio
-this contain the link 
+this contain the link: 
+https://chunga-codder.github.io/updated-portfolio2/
 
-for the <i>github repo</i>, the link is 
+for the <i>github repo</i>, the link is:
+https://github.com/chunga-codder/updated-portfolio2 
+
+
+link to short video:https://drive.google.com/file/d/1UZ64Aoh-Q1kZPP0ejF7ikkhDkIzCoL9o/view
+
+.
+
 
 <h3>TOOLS USED</h3>
 For this app, css and html where used ,including mocrosoftword to display my CV which is needed to be downloaded 
@@ -21,5 +29,12 @@ also font awsome was used too
 <h3>IMAGES</h3>
 
 This contains some im ages of the end results of the <i>contact, about and portfolio pages</i>
-this depicts the original app ass it is live 
+this depicts the original app ass it is live
+
+<h3>short video of portfolio</h3>
+
+you can get it here:
+https://drive.google.com/file/d/1UZ64Aoh-Q1kZPP0ejF7ikkhDkIzCoL9o/view
+
+embed code: <iframe src="https://drive.google.com/file/d/1UZ64Aoh-Q1kZPP0ejF7ikkhDkIzCoL9o/preview" width="640" height="480"></iframe>
 .
