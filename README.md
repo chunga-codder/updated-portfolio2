@@ -10,6 +10,8 @@ users will be able to get intouch with me using any of the uptions above
 
 <h3 style="text-align:center">LINKS</h3>
 This are the various links which tou can go to if you want to take a look of the live portfolio
+
+
 this contain the link: 
 https://chunga-codder.github.io/updated-portfolio2/
 
@@ -35,6 +37,8 @@ this depicts the original app ass it is live
 
 you can get it here:
 https://drive.google.com/file/d/1UZ64Aoh-Q1kZPP0ejF7ikkhDkIzCoL9o/view
+<img src=".\assets\Images\Untitled_ Nov 22, 2020 11_48 AM.gif">
+
 
 embed code: <iframe src="https://drive.google.com/file/d/1UZ64Aoh-Q1kZPP0ejF7ikkhDkIzCoL9o/preview" width="640" height="480"></iframe>
 .
