@@ -30,7 +30,7 @@ also font awsome was used too
 
 <h3>IMAGES</h3>. 
  
-             <h3>ABOUT</h3>         
+<h3>ABOUT</h3>         
                     
 
 ![Screenshot_20201123-075743_1](https://user-images.githubusercontent.com/71171928/99935969-3db13280-2d62-11eb-9643-269984c59eae.png)
