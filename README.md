@@ -30,6 +30,11 @@ also font awsome was used too
 
 <h3>IMAGES</h3>
 
+![Screenshot_20201123-075743_1](https://user-images.githubusercontent.com/71171928/99935969-3db13280-2d62-11eb-9643-269984c59eae.png)
+![Screenshot_20201123-075800_1](https://user-images.githubusercontent.com/71171928/99935972-3f7af600-2d62-11eb-9267-968087eebce7.png)
+![Screenshot_20201123-075705_1](https://user-images.githubusercontent.com/71171928/99935974-40138c80-2d62-11eb-876b-6b3df7d0b646.png)
+
+
 This contains some im ages of the end results of the <i>contact, about and portfolio pages</i>
 this depicts the original app ass it is live
 
