@@ -28,15 +28,16 @@ link to short video:https://drive.google.com/file/d/1UZ64Aoh-Q1kZPP0ejF7ikkhDkIz
 For this app, css and html where used ,including mocrosoftword to display my CV which is needed to be downloaded 
 also font awsome was used too
 
-<h3>IMAGES</h3>
-                      
-                     <h3>ABOUT PAGE</h3>
+<h3>IMAGES</h3>. 
+ 
+             <h3>ABOUT</h3>         
+                    
 
 ![Screenshot_20201123-075743_1](https://user-images.githubusercontent.com/71171928/99935969-3db13280-2d62-11eb-9643-269984c59eae.png)
-                <h3>CONTACT PAGE<\h3>
-
+                
+<h3>CONTACT</h3>
 ![Screenshot_20201123-075800_1](https://user-images.githubusercontent.com/71171928/99935972-3f7af600-2d62-11eb-9267-968087eebce7.png)
-                 <h3>POTFOLIO PAGE</h3>
+                 <h3>POTFOLIO</h3>
 
 ![Screenshot_20201123-075705_1](https://user-images.githubusercontent.com/71171928/99935974-40138c80-2d62-11eb-876b-6b3df7d0b646.png)
 
