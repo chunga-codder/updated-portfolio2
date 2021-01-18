@@ -8,6 +8,8 @@ in the <i>Contact me page</i> you will be abble to contact me through 4 major so
 <h4>Facebook, whatsapp, gmail and linkin including Github </h4>
 users will be able to get intouch with me using any of the uptions above
 
+for the home and school attended, you can also click on them to access the various websites.
+
 <h3 style="text-align:center">LINKS</h3>
 This are the various links which tou can go to if you want to take a look of the live portfolio
 
@@ -26,7 +28,7 @@ link to short video:https://drive.google.com/file/d/1UZ64Aoh-Q1kZPP0ejF7ikkhDkIz
 
 <h3>TOOLS USED</h3>
 For this app, css and html where used ,including mocrosoftword to display my CV which is needed to be downloaded 
-also font awsome was used too
+also font awsome was used too,bootstrap was used too including screen castify for my gif 
 
 <h3>IMAGES</h3>. 
  
