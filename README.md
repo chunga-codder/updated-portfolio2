@@ -36,8 +36,7 @@ also font awsome was used too,bootstrap was used too including screen castify fo
                     
 
 ![Screenshot_20201123-075743_1](https://user-images.githubusercontent.com/71171928/99935969-3db13280-2d62-11eb-9643-269984c59eae.png)
-                
-<h3>CONTACT</h3>
+                <h3>CONTACT</h3>
 ![Screenshot_20201123-075800_1](https://user-images.githubusercontent.com/71171928/99935972-3f7af600-2d62-11eb-9267-968087eebce7.png)
                  <h3>POTFOLIO</h3>
 
@@ -57,5 +56,5 @@ https://drive.google.com/file/d/1UZ64Aoh-Q1kZPP0ejF7ikkhDkIzCoL9o/view
 embed code: <iframe src="https://drive.google.com/file/d/1UZ64Aoh-Q1kZPP0ejF7ikkhDkIzCoL9o/preview" width="640" height="480"></iframe>
 <<<<<<< HEAD:README
 =======
-.
+.    .
 >>>>>>> 5dbc9072954ead18b96552b29f3a32a745f1a5f3:README.md
